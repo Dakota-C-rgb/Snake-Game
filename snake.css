@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+div {
+    color: yellow;
+    font-size: 1.5rem;
+    width: 30px;
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    width: 80%;
+}
